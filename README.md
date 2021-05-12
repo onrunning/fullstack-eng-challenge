@@ -2,7 +2,7 @@
 
 ## The Task:
 
-Welcome to On's Fullstack Engineer coding challenge! To help us assess your coding skills, we'd like you to build a small application with a **Ruby backend and a Javascript framework on the frontend**. The app should fetch retailer data from an API, store it locally, and display the retailers on a map.
+Welcome to On's Fullstack Engineer coding challenge! To help us assess your coding skills, we'd like you to build a small application with a **Ruby backend and a Javascript framework on the frontend**. The app should fetch dealer data from an API, store it locally, and display the dealers on a map.
 
 Breaking down the task the app should:
 
@@ -17,13 +17,13 @@ Breaking down the task the app should:
 
 ## The API
 
-The fakerapi.it API is used for this challenge. It provides fake/randomized company data that can be used to simulate our retailers. To access the data use the following endpoint:
+The fakerapi.it API is used for this challenge. It provides fake/randomized company data that can be used to simulate our dealers. To access the data use the following endpoint:
 
 https://fakerapi.it/api/v1/companies?_seed=1&_quantity=200
 
 A company resource has many fields, but we're only interested in the following ones:
 
-- `name` -> name of the retailer
+- `name` -> name of the dealer
 - `phone` -> phone number
 - `addresses[0].street` -> the first address record should be used as address data
 - `addresses[0].city`
