@@ -43,7 +43,7 @@ _Note:_ The data is completely random and does not "make sense", so it's perfect
 You're free to use any Ruby framework of your choice, whether it's Rails, Sinatra, or Grape ... or no framework at all. Also good to keep in mind:
 
 - Sufficient test coverage
-- We expect you to be prepared to explain your rationale behind the decisions taken. We also expect you to provide us with your assumptions. This will help us contextualise your solution when assessing the task.
+- We expect you to be prepared to explain your rationale behind the decisions taken. We also expect you to provide us with your assumptions. This will help us contextualize your solution when assessing the task.
 - We believe in open source. You're free to make use of any open source library with caution.
 - We don't expect you to spend a lot of time on this task. No need to spend more than 5 hrs. Provide us with your solution even if it's incomplete. We will review it and discuss your progress with you.
 - Use this task as an opportunity to show your skills ;)
